@@ -45,6 +45,13 @@ A full-stack blogging platform where users can create, edit, and delete blog pos
 
 ---
 
+### Screenshots
+
+### HomePage
+![Home](./Screenshots/Home_Page.png)
+
+---
+
 ## 🧑‍💻 How to Run Locally
 
 ### 📦 Backend (Spring Boot)
