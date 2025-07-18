@@ -47,8 +47,18 @@ A full-stack blogging platform where users can create, edit, and delete blog pos
 
 ### Screenshots
 
-### HomePage
+### Home Page
 ![Home](./Screenshots/Home_Page.png)
+### LogIn Page
+![Home](./Screenshots/Login_Page.png)
+### My Blog Page
+![Home](./Screenshots/My_BlogsPage.png)
+### Add Blog Page
+![Home](./Screenshots/Add_Blog.png)
+### Update & Delete Page
+![Home](./Screenshots/Update&DeleteBlog.png)
+### Like & Comment
+![Home](./Screenshots/Like&Comment.png)
 
 ---
 
